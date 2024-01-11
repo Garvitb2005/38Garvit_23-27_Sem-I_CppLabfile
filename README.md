@@ -3,38 +3,37 @@ This file contains c++ codes.
 C++ lab file pdf link -- https://drive.google.com/drive/folders/1E-VUZrgmjqNJCkkK459D-dKxX3rV0xjY?usp=sharing
 
 program1 - Write a program to find the roots of a quadratic equation.
+
 program2 - Write a program to calculate the power of a number using a loop.
+
 program3 - Write a program to check if a given string, is a palindrome.
+
 program4 - Write a program that simulates a simple ATM machine, allowing users to check their balance, deposit, or withdraw money using a switch statement.
+
 program5 - Write a program that finds the largest among three numbers using nested if-else
 statements
+
 program6 - Write a program that determines the grade of a student based on their marks of 5 subjects sing if-else-if ladder.
+
 program7 - Write a program to find the sum of digits of a number until it becomes a single-digit number.
+
 program8 - Write a program to print a Pascal's triangle using nested loops.
+
 program9 - Write a program to calculate the sum of series 1/1! + 2/2! + 3/3! + ... + N/N! using nested loops.
+
 program10 - Write a program to create an array of strings and display them in alphabetical order.
+
 program11 - Write a program that checks if an array is sorted in ascending order.
+
 program12 - Write a program to calculate the sum of elements in each row of a matrix.
+
 program13 - Write a program to generate all possible permutations of a string.
 
 program14 - Create a C++ program to print the following pattern:
-*****
-* *
-* *
-* *
-*****
 
 program15 - Write a C++ program to display the following pattern:
-1
-232
-34543
-4567654
-34543
-232
 
-program16 - Write a program to creating an inventory management system for a small store.
-The system should use object-oriented principles in C++. Yourprogram should
-have the following features:
+program16 - Write a program to creating an inventory management system for a small store. The system should use object-oriented principles in C++. Yourprogram should have the following features:
 • Create a Product class that represents a product in the inventory. 
 Each Product object should have the following attributes: 
 • Product ID (an integer)
